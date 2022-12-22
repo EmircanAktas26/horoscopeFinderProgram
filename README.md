@@ -1,0 +1,2 @@
+# horoscopeFinderProgram
+BasichoroscopeFinderProgram(patikaDev)
